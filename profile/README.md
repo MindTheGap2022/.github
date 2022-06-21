@@ -3,4 +3,3 @@ Here you will find repositories contributed by attendees of the June 16-18 2022 
 
 ---
 ![Screenshot](images/mtg.png)
-:alt: MtG Poster
